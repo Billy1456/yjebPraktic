@@ -1,0 +1,9 @@
+﻿<Application x:Class="Rega.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Rega"
+             StartupUri="fiks.xaml">
+    <Application.Resources>
+        <ResourceDictionary Source="lightthema.xaml" />
+    </Application.Resources>
+</Application>
